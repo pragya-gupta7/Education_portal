@@ -23,4 +23,4 @@ Student's accounts with passwords:-
 
 (ii) SURYANSH GOYAL - '1234'
 
-Also, we have added 10 questions for the quiz already. (You can add as many questions as you can)
+Also, we have added 20 questions for the quiz already. (You can add as many questions as you can)
